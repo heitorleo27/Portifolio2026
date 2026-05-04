@@ -19,3 +19,5 @@ export const Route = createFileRoute("/")({
     ],
   }),
 });
+
+export default Portfolio;
